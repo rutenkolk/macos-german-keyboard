@@ -36,3 +36,16 @@ To remap the right command key to behave like another option key, so you get the
 </plist>
 ```
 
+## Notable "features" to german users
+
+If you remapped cmd to option and installed and selected the keyboard, you may enjoy the following features:
+
+- cmd q -> @
+- cmd + -> ~
+- cmd 7 -> {
+- cmd 8 -> [
+- cmd 9 -> ]
+- cmd 0 -> }
+- cmd ß -> \
+- cmd ^ -> ~
+- cmd < -> |
